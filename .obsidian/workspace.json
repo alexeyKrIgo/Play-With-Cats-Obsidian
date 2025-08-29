@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b8550a235ceceb2d",
+        "id": "efa8d60f21f5d520",
         "type": "tabs",
         "children": [
           {
-            "id": "3ed13468606cbad3",
+            "id": "c911778c7a1e5d62",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Game-Play.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Game-Play"
             }
           }
         ]
@@ -173,8 +177,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0208cb1f97cc0080",
+  "active": "c911778c7a1e5d62",
   "lastOpenFiles": [
+    "Playing With Cats.md",
+    "RPG Elements.md",
+    "Game-Play.md",
     "Welcome.md"
   ]
 }
