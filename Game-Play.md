@@ -14,6 +14,10 @@ Cat is able to do 4 basic actions:
 The first 3 actions are done by **following** the player's cursor that is represented by a **toy**
 ![[basic-toy-idle.gif]]
 
+## Game conditions
+
+
+
 
 
 
